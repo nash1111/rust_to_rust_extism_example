@@ -1,2 +1,3 @@
 /target
 /Cargo.lock
+!target/wasm32-unknown-unknown/release/extism_pdk_rust_sample.wasm
